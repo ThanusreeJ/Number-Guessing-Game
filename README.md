@@ -1,4 +1,5 @@
 # Number-Guessing-Game
 
 - SATISH IS GOING TO ADD SOMETHING
-- SATISH ADDED IT 
+- SATISH ADDED IT
+- --- did something
